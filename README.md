@@ -3,7 +3,7 @@ This project is data analytics project that analyzes data from facebook insight 
 
 It is analyzed by using Python 3 on Jupyter Notebook.
 
-# How to run the notebook
+## How to run the notebook
 - Install Anaconda
 - Create environment compatible with Python 3++
 - Clone this project and all of the files to your local machine
