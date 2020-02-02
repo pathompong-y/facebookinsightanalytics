@@ -3,6 +3,9 @@ This project is data analytics project that analyzes data from facebook insight 
 
 It is analyzed by using Python 3 on Jupyter Notebook.
 
+I also have blog sharing about the result here.
+https://medium.com/@pathompongyupensuk/in-depth-insights-for-growing-your-facebook-fan-pages-like-extracting-from-the-page-s-data-16be0b0f5606
+
 # The Objectives of this Project
 Facebook Page Insights is the first stop tool for all of Facebook page admin to analyze and measure the performance of the content posted / published on the page. However, there are in-depth and page specific questions that facebook insight can't answer. For example, the metrics that influences the increment of the total page's like. Is it a set of 'Like, Comment, Share'? or Is it actually just 'Share'? or base on the average performance of the content, how can I predict the growth of the page? 
 
